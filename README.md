@@ -1,6 +1,7 @@
 # Maya Website
 
 Landing page for the Maya personal safety and SOS app.
+[Live Demo](http://itsnaresh.me/maya_website/)
 
 ## Project Structure
 
